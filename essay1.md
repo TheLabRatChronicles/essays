@@ -61,33 +61,29 @@ To remain competitive, sensationalism needs to top itself. Emotional intensity e
 
 Propaganda deployment becomes easier. Manipulative narratives blend seamlessly into an ecosystem that rewards emotional extremes.
 
-
-
-
-
 What emerges is a self-propagating cycle where sensationalism delivers the attention and propaganda supplies the interpretation. This dynamic resembles what researchers describe as an information disorder.[10]
 
 The consequences of this feedback loop require an understanding of what is lost when sensationalism sets the terms of visibility. The most significant casualties are independence of thought and nuance.
 
-IV. Why Moderate Ideas Vanish Online
-A. Why Digital Media Punishes Slow Thinking
+### IV. Why Moderate Ideas Vanish Online
+<b>A. Why Digital Media Punishes Slow Thinking</b><br>
 We acquire complex ideas through the slow, attentive absorption of context, background, and explanation, which is exactly the kind of slow processing that digital media refuses to reward. The system chases immediacy and quick emotional fixes, inevitably depriving nuance of its core requirement: deliberate, unhurried digestion of information. Ultimately, slow and careful analysis gets punished.
 
-B. Careful Thinking Requires Intellectual Effort
+<b>B. Careful Thinking Requires Intellectual Effort</b><br>
 In our current media landscape, two things are rationed for the proper consumption of analytical information: attention and reflection. Consuming nuance is less attractive and intellectually more expensive than emotional highs.[8] One demands effort while the other delivers ease and simplicity. The result quietly suppresses careful thought.
 
-C. Why We Distrust Nuance
+<b>C. Why We Distrust Nuance</b><br>
 Audiences increasingly lean toward confident statements rather than nuanced explanations, which feel like uncertainty.[9] Where sensationalism delivers certainty and encourages propagation, nuance delivers qualifiers and encourages discussion. In the end, the complexity of public discussion is viewed as weakness.
 
-D. The Visibility Cost of Calm Debate
+<b>D. The Visibility Cost of Calm Debate</b><br>
 By design, nuance is collected and grounded, triggering fewer comments, heated discussions, and shares. In a digital landscape managed by algorithmic metrics, this lack of conflict frequently renders grounded and thoughtful discussion invisible.
 
 If nuance can’t hold its own in an attention economy, then journalistic restraint will not be the solution, since it operates under the same conditions. The incentive structure itself must be addressed.
 
-V. Toward a Media Landscape Not Driven by Emotion
+### V. Toward a Media Landscape Not Driven by Emotion
 Could sensationalism be reduced if journalists voluntarily refrained from using it? The problem is not one of morality but instead structure.
 
-A. The Structural Forces Behind Emotional Content
+<b>A. The Structural Forces Behind Emotional Content</b><br>
 An ad-based revenue stream that rewards attention rather than public service.
 
 A distribution model encouraging viral content instead of information quality.
@@ -96,7 +92,7 @@ Audience conditioning to emotional highs that generates demand for more.
 
 A lack of time in people’s lives, increasing demand for quick, emotionally satisfying content.
 
-B. Promising Directions for Media Reform
+<b>B. Promising Directions for Media Reform</b><br>
 Better incentives for non-sensationalistic reporting include:
 
 Membership-based journalism, where algorithmic metrics are far less important.
@@ -109,12 +105,12 @@ Slow media platforms that prioritise depth over immediacy.
 
 These options are not silver bullets, but they do show that healthier incentive systems produce healthier information and that a self-aware movement exists to improve the media landscape.
 
-C. Why Individuals Matter More Than Institutions
+<b>C. Why Individuals Matter More Than Institutions</b><br>
 Unless we change the financially motivated algorithmic infrastructure that determines visibility, sensationalism cannot be meaningfully subdued. The media ecosystem is engineered for emotional triggers, not informational accuracy.
 
 Because the landscape is so deeply wired in its current form, the most effective changes lie with individuals rather than institutions.
 
-VI. How to Resist Sensationalism
+### VI. How to Resist Sensationalism
 Even though reforming the media ecosystem is difficult, individuals can develop resistance to sensationalism through deliberate habits:
 
 Emotional highs often signal manipulation attempts.
@@ -131,7 +127,7 @@ Recognize clickbait in clickable headings, thumbnails, and other imagery.
 
 These practices will not necessarily reform the media landscape, but they will weaken sensationalism’s psychological grip as more people engage in them.
 
-VII. What’s at Stake in the Age of Sensationalism
+### VII. What’s at Stake in the Age of Sensationalism
 Some might see sensationalism as journalistic weakness. In fact, journalism has adapted to the new reality. Sensationalism has become economically viable because we’ve evolved into an environment where attention is scarce, competition is unforgiving, and emotional triggers determine visibility. Yet this evolution carries consequences for democracy and individual autonomy. Each time conflict, outrage, and novelty are rewarded, the conditions for propaganda strengthen.
 
 Today, it is a civic necessity to recognize this dynamic. The information landscape expects our attention. Mandatory engagement thrives on manipulation. Consumers must therefore become inner-directed: operating from an internal locus of control and learning to be less reactive to provocation. This does not mean distrusting everything, but approaching information proactively instead of passively. Only under these conditions can democratic discussion withstand the pressures of sensationalism.
