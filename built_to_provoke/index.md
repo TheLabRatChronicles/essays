@@ -1,8 +1,8 @@
 # **Built to Provoke: The Economics of Sensationalism**
-### How digital platforms learned to monetize your emotions.<br>
+### How digital platforms learned to monetize your emotions.<br><br>
 
 Al Monney<br>
-December 10, 2025
+December 10, 2025<br>
 
 In today’s media ecosystem, information can’t be passive anymore. In fact, it’s expected to perform. It needs to yield results through whatever messaging is being used. Nothing is wasted. Often, every little editorial detail is premeditated to result in clicks, shares, comments, emotional reactions, or any other sign of human engagement. This type of engagement should not be accidental. That kind of engagement is essentially the lifeline of the medium itself — the digital medium. If the only thing content delivery accomplishes is the act of informing, as in the golden age of objective journalism, at least in financial terms, then such content is dead on arrival. Today’s hyper-demanding thirst for compelling content ensures its demise. Sensationalism, inside that media bubble, isn’t merely an editorial decision of style — it’s the Swiss Army knife of media survival. A calm and collected disposition of information expects nothing and gets nothing, whereas sensationalism expects reactions and, if successful, gets engagement.
 
