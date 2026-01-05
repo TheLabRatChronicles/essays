@@ -1,5 +1,8 @@
 # The Lab Rat Chronicles
-### [Essays](./) | [About](about/)
+<p style="text-align: right;">
+  <a href="./"><strong>Essays</strong></a> | 
+  <a href="about/"><strong>About</strong></a>
+</p>
 
 
 Welcome to The Lab Rat Chronicles: a space for examining what happens when boundaries are pushed to their limits. Read more about this essay repository in the About Page.
