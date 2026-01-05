@@ -74,12 +74,7 @@ With this in mind, the sensationalism–propaganda relationship works through a 
     
 4. **Propaganda deployment becomes easier.** Manipulative narratives blend seamlessly into an ecosystem that rewards emotional extremes.
 
-
-
-    ![](https://substackcdn.com/image/fetch/$s_!zBJd!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fd219f770-a0c1-48a2-bb71-7f5634aa2eb2_584x517.png)
-    
-
-
+![Alt text](2.webp)
   
 What emerges is **a self-propagating cycle where sensationalism delivers the attention and propaganda supplies the interpretation.** This dynamic resembles what researchers describe as an **information disorder**.[10]
 
