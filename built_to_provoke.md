@@ -56,9 +56,9 @@ Sensationalism and propaganda are not identical, but in digital environments the
   
 Over the past several months, I’ve been preparing a white paper focused on refining a method-based definition of propaganda. Its central proposal appears here for the first time: the _Method-Based Definition of Propaganda_, intended as a unifying framework for the digital age. This definition is still a work in progress, and will likely evolve as the broader DSTF-16 framework is finalized.[12]:  
 
-
+<br>
 > _Propaganda is any communicative act or system, intentional or unintentional, that predictably and systematically steers people toward a specific interpretation, belief, or action by using manipulative techniques that reduce, overwhelm, or bypass voluntary critical reasoning (such as omission, selective framing, distortion, strategic ambiguity, emotional flooding, manufactured urgency, deceptive contextual engineering, or engineered repetition/social proof). Strong, truthful emotional appeals that preserve space for critical thought are not propaganda. The term is used not to assign blame, but to increase awareness, helping both senders and receivers notice how influence works so that choices can become more freely made._
-
+<br>
   
 With this in mind, the sensationalism–propaganda relationship works through a recurrent loop:
 
