@@ -142,7 +142,7 @@ Truth takes shape through many voices. If this piece sparks agreement, doubt, or
 Your reflections are always welcome.
 
 ## References:
-[1] Davenport, T. H., & Beck, J. C. (2001). The Attention Economy. Harvard Business School Press.
+[1] Davenport, T. H., & Beck, J. C. (2001). The Attention Economy. Harvard Business School Press.<br>
 [2] Vosoughi, S., Roy, D., & Aral, S. (2018). “The spread of true and false news online.” Science, 359(6380), 1146–1151.
 [3] Napoli, P. (2019). Social Media and the Public Interest. Columbia University Press.
 [4] Baumeister, R. F., et al. (2001). “Bad is stronger than good.” Review of General Psychology, 5(4), 323–370.
