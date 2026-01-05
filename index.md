@@ -20,20 +20,18 @@ Welcome! This is a home for my essays, research, and social science experiments.
 
 <h2>Essays</h2>
 
-<div style="
-  display: flex;
-  align-items: flex-start;
-  gap: 16px;
-  margin-bottom: 20px;">
-
-  <img src="Thumbnail1.png" alt="Built To Provoke"
-    style="width:300px; height:auto; flex-shrink:0;">
-  <div>
-    <strong>
-      <a href="built_to_provoke.md">Built To Provoke</a>
-    </strong><br>
-    <em>How digital platforms learned to monetize your emotions.</em>
-  </div>
-</div>
+<table>
+  <tr>
+    <td style="width:320px; vertical-align:top;">
+      <img src="Thumbnail1.png" alt="Built To Provoke" width="300">
+    </td>
+    <td style="vertical-align:top;">
+      <strong>
+        <a href="built_to_provoke.md">Built To Provoke</a>
+      </strong><br>
+      <em>How digital platforms learned to monetize your emotions.</em>
+    </td>
+  </tr>
+</table>
 
 
