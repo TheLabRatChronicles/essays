@@ -12,12 +12,12 @@ This article is all about how our media architecture changed and why it continue
 By looking at the human, financial, and technological drives interacting in this new media ecosystem, we get a broad picture and better comprehension of how this engagement-compulsory environment generates the psychological field that allows propaganda to flourish unimpeded.
 
 ### I. The Shift from Limited News to Limited Attention
-<b>Why Traditional News Didn’t Need Emotional Hooks</b>
+<b>Why Traditional News Didn’t Need Emotional Hooks</b><br>
 Information shortage was, for the most part, a defining characteristic of 20th-century news organisations. Large news networks, local broadcasters, and newspapers were limited in numbers and as a result were able to carry stable audiences. Their reputation, credibility, and reach largely determined their competitiveness. Revenues poured in a relatively consistent manner not because of emotional stimuli but because of an intellectually captive subscriber base.
 
 Because of a limited number of news outlets, the final selection of news items had to be moderated due to the limited number of slots, pages, column sizes, or broadcast time. Editorial oversight ensured that the right pieces of news filled the limited number of slots. Objectivity wasn’t a foregone conclusion, but moderation helped it along. It was under those conditions that careful reporting was profitable. Concise, to-the-point news was expected by readers, rather than a daily dose of emotional fix.
 
-<b>New Incentives in the Age of Infinite Content</b>
+<b>New Incentives in the Age of Infinite Content</b><br>
 If the pre-digital era experienced a limited supply of news forcing self-moderation then today’s digital era has produced the opposite. The internet has generated a quasi-unlimited amount of information, while audience attention remains disproportionately limited. The new chokepoint is now visibly the consumer bandwidth rather than the ability to produce. This shift is what scholars call the attention economy: the new scarcity is no longer information but rather the attention to that information.[1]
 
 Using human nature as the blueprint, algorithms now decide visibility (and therefore revenue) by rewarding content that triggers powerful emotions,[3] producing high-engagement signals (clicks, watch time, comments) that platforms use to rank and recommend content.[2] The end result is one where informational, triggerless content performs unimpressively inside a system designed for faster engagement, extreme emotions, and constant stimulation.
@@ -27,15 +27,15 @@ This profit engine has bifurcated from a subscription-based captive audience to 
 If the new profit engine incentivises attention instead of knowledge, then this begs the question: What triggers the emotional fix? The psychological aspects of sensationalism demand a proper examination.
 
 ### II. Why Outrage Works: The Psychology Behind Sensationalism
-<b>A. The Evolutionary Advantage of Negative Information</b>
+<b>A. The Evolutionary Advantage of Negative Information</b><br>
 From an evolutionary perspective, our brains are designed to prioritise negativity over positivity. Research shows that what is remembered more consistently, processed more deeply, and attracts attention more rapidly is negative information.[4] This tendency served an important function: it allowed organisms to react quickly to perceived threats, increasing survival odds. Sensationalism exploits this instinct by highlighting danger, moral outrage, and conflict.
 
-<b>B. The Salience Network: Why Novelty Feels Important</b>
+<b>B. The Salience Network: Why Novelty Feels Important</b><br>
 How we respond to novelty is the responsibility of the brain’s reward system. Each time new and emotional claims are delivered, our reward system, known as the salience network, makes that information appear more important than it really is.[5]
 
 Similar to novelty and emotional claims, conflict seizes our attention and produces emotional spikes through antagonism, social division, and moral outrage. These reactions are not defects, but demonstrations of ancient circuitry drowned in a modern environment of mass information delivery.
 
-<b>C. Why We Become Suggestible When Emotions Run High</b>
+<b>C. Why We Become Suggestible When Emotions Run High</b><br>
 Our ability to think critically is diminished by emotional arousal through a cognitive shift from intentional thinking to automatic thinking.[6] Therefore, sensationalism triggers the emotional arousal that weakens critical judgment, and this is where propaganda intervenes: it exploits these cognitive conditions. Propaganda thrives under these conditions, when audiences are overloaded, emotionally stimulated, or cognitively fatigued, because such states impair reflective judgment and heighten susceptibility to simplified narratives.[7] These psychological characteristics make sensationalist content an especially effective tool and leave audiences more impressionable.
 
 The sensationalism-propaganda feedback loop is formed by the interdependence created when sensationalism takes advantage of our evolutionary brain patterns, which propaganda then feeds into precisely when our reasoning is most diminished.
@@ -45,7 +45,7 @@ Sensationalism and propaganda are not identical, but in digital environments the
 
 Over the past several months, I’ve been preparing a white paper focused on refining a method-based definition of propaganda. Its central proposal appears here for the first time: the Method-Based Definition of Propaganda, intended as a unifying framework for the digital age. This definition is still a work in progress, and will likely evolve as the broader DSTF-16 framework is finalized.[12]:
 
-Propaganda is any communicative act or system, intentional or unintentional, that predictably and systematically steers people toward a specific interpretation, belief, or action by using manipulative techniques that reduce, overwhelm, or bypass voluntary critical reasoning (such as omission, selective framing, distortion, strategic ambiguity, emotional flooding, manufactured urgency, deceptive contextual engineering, or engineered repetition/social proof). Strong, truthful emotional appeals that preserve space for critical thought are not propaganda. The term is used not to assign blame, but to increase awareness, helping both senders and receivers notice how influence works so that choices can become more freely made.
+<quote>Propaganda is any communicative act or system, intentional or unintentional, that predictably and systematically steers people toward a specific interpretation, belief, or action by using manipulative techniques that reduce, overwhelm, or bypass voluntary critical reasoning (such as omission, selective framing, distortion, strategic ambiguity, emotional flooding, manufactured urgency, deceptive contextual engineering, or engineered repetition/social proof). Strong, truthful emotional appeals that preserve space for critical thought are not propaganda. The term is used not to assign blame, but to increase awareness, helping both senders and receivers notice how influence works so that choices can become more freely made.</quote>
 
 
 With this in mind, the sensationalism–propaganda relationship works through a recurrent loop:
