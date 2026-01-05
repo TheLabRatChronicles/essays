@@ -11,7 +11,6 @@ This article is all about how our media architecture changed and why it continue
 
 By looking at the human, financial, and technological drives interacting in this new media ecosystem, we get a broad picture and better comprehension of how this engagement-compulsory environment generates the psychological field that allows propaganda to flourish unimpeded.
 
----
 
 ## **I. The Shift from Limited News to Limited Attention**
 
@@ -31,7 +30,6 @@ This profit engine has bifurcated from a subscription-based captive audience to 
 
 If the new profit engine incentivizes attention instead of knowledge, then this begs the question: **What triggers the emotional fix?** The psychological aspects of sensationalism demand a proper examination.
 
----
 
 ## **II. Why Outrage Works: The Psychology Behind Sensationalism**
 
@@ -51,13 +49,13 @@ Our ability to think critically is diminished by emotional arousal through a cog
   
 The sensationalism-propaganda feedback loop is formed by the interdependence created when sensationalism takes advantage of our evolutionary brain patterns, which propaganda then feeds into precisely when our reasoning is most diminished.
 
----
 
 ## **III. The Loop That Turns Outrage Into Influence**
 
 Sensationalism and propaganda are not identical, but in digital environments they reinforce each other so tightly that disentangling them becomes difficult. To understand this dynamic clearly, it helps to define propaganda in a way suited to the digital age.  
   
 Over the past several months, I’ve been preparing a white paper focused on refining a method-based definition of propaganda. Its central proposal appears here for the first time: the _Method-Based Definition of Propaganda_, intended as a unifying framework for the digital age. This definition is still a work in progress, and will likely evolve as the broader DSTF-16 framework is finalized.[12]:  
+
 
 > _Propaganda is any communicative act or system, intentional or unintentional, that predictably and systematically steers people toward a specific interpretation, belief, or action by using manipulative techniques that reduce, overwhelm, or bypass voluntary critical reasoning (such as omission, selective framing, distortion, strategic ambiguity, emotional flooding, manufactured urgency, deceptive contextual engineering, or engineered repetition/social proof). Strong, truthful emotional appeals that preserve space for critical thought are not propaganda. The term is used not to assign blame, but to increase awareness, helping both senders and receivers notice how influence works so that choices can become more freely made._
 
@@ -103,7 +101,6 @@ By design, nuance is collected and grounded, triggering fewer comments, heated d
 
 If nuance can’t hold its own in an attention economy, then journalistic restraint will not be the solution, since it operates under the same conditions. **The incentive structure itself must be addressed.**
 
----
 
 ## **V. Toward a Media Landscape Not Driven by Emotion**
 
@@ -141,7 +138,6 @@ Unless we change the financially motivated algorithmic infrastructure that deter
 
 Because the landscape is so deeply wired in its current form, the most effective changes lie with **individuals** rather than institutions.
 
----
 
 ## **VI. How to Resist Sensationalism**
 
@@ -168,7 +164,6 @@ Some might see sensationalism as journalistic weakness. In fact, journalism has 
 
 Today, it is a civic necessity to recognize this dynamic. The information landscape expects our attention. Mandatory engagement thrives on manipulation. Consumers must therefore become inner-directed: operating from an internal locus of control and learning to be less reactive to provocation. This does not mean distrusting everything, but approaching information proactively instead of passively. Only under these conditions can democratic discussion withstand the pressures of sensationalism.
 
----
 
 #### Reader Invitation
 
