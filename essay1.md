@@ -1,7 +1,7 @@
 # The Lab Rat Chronicles
+The Dopamine Addiction Network.
 
-Welcome! This is a home for my essays, research, and experiments in social sciences and geopolitics.
+Welcome! This is the title of my first essay.
 
-## Essays
-- [Essay 1](essay1.md)
+
 
