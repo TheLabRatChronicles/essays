@@ -7,7 +7,7 @@ Welcome! This is a home for my essays, research, and social science experiments.
 <table>
   <tr>
     <td style="width:320px; vertical-align:top;">
-      <img src="Thumbnail1.png" alt="Built To Provoke" width="300">
+      <img src="Thumbnail1.png" alt="built_to_provoke/index.md" width="300">
     </td>
     <td style="vertical-align:middle;">
       <strong>
