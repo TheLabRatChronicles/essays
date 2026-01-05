@@ -5,3 +5,9 @@ Welcome! This is a home for my essays, research, and social science experiments.
 ## Essays
 - [Essay 1](essay1.md)
 - [Built To Provoke](built_to_provoke.html)
+
+## Essays
+
+### ![Thumbnail](images/essay1-thumb.png)
+**[The Human Experiment](essay1.md)**  
+*On evidence, inference, and moral boundaries.*
