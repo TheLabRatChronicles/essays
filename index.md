@@ -11,7 +11,7 @@ Welcome! This is a home for my essays, research, and social science experiments.
     </td>
     <td style="vertical-align:middle;">
       <strong>
-        <a href="built_to_provoke/index.md">Built To Provoke</a>
+        <a href="built_to_provoke/">Built To Provoke</a>
       </strong><br>
       <em>How digital platforms learned to monetize your emotions.</em>
     </td>
