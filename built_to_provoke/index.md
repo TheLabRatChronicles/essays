@@ -1,5 +1,5 @@
 # **Built to Provoke: The Economics of Sensationalism**
-## _How digital platforms learned to monetize your emotions._<br>
+How digital platforms learned to monetize your emotions.<br>
 Al Monney<br>
 December 10, 2025
 
