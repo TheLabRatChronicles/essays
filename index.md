@@ -1,6 +1,6 @@
 # The Lab Rat Chronicles
 
-Welcome! This is a home for my essays, research, and social science experiments.
+Welcome to The Lab Rat Chronicles: a space for examining what happens when boundaries are pushed to their limits. Read more about this essay repository in the About Page.
 
 <h2>Essays</h2>
 
