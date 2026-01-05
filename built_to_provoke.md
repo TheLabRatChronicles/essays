@@ -197,5 +197,4 @@ _Your reflections are always welcome._
 11. Berger, J., & Milkman, K. (2012). “What Makes Online Content Viral?” _Journal of Marketing Research_, 49(2), 192–205.
     
 12. Monney, A. G. (2025). _Conceptual foundations of the DSTF-16 method-based propaganda framework_ [White paper in preparation].  
-    
 
