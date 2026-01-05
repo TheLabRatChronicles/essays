@@ -9,7 +9,7 @@ Welcome! This is a home for my essays, research, and social science experiments.
     <td style="width:320px; vertical-align:top;">
       <img src="Thumbnail1.png" alt="Built To Provoke" width="300">
     </td>
-    <td style="vertical-align:top;">
+    <td style="vertical-align:middle;">
       <strong>
         <a href="built_to_provoke.md">Built To Provoke</a>
       </strong><br>
