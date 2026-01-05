@@ -53,13 +53,13 @@ Propaganda is any communicative act or system, intentional or unintentional, tha
 
 With this in mind, the sensationalism–propaganda relationship works through a recurrent loop:
 
-Sensationalism seizes our attention. Algorithms amplify emotionally charged content, and engagement begets visibility.
+(1) Sensationalism seizes our attention. Algorithms amplify emotionally charged content, and engagement begets visibility.
 
-Propaganda inserts itself into the seized attention. Emotionally primed audiences gravitate toward certainty, identity reinforcement, and clear moral narratives.
+(2)Propaganda inserts itself into the seized attention. Emotionally primed audiences gravitate toward certainty, identity reinforcement, and clear moral narratives.
 
-To remain competitive, sensationalism needs to top itself. Emotional intensity escalates. Yesterday’s sensationalism becomes today’s neutral.
+(3)To remain competitive, sensationalism needs to top itself. Emotional intensity escalates. Yesterday’s sensationalism becomes today’s neutral.
 
-Propaganda deployment becomes easier. Manipulative narratives blend seamlessly into an ecosystem that rewards emotional extremes.
+(4)Propaganda deployment becomes easier. Manipulative narratives blend seamlessly into an ecosystem that rewards emotional extremes.
 
 What emerges is a self-propagating cycle where sensationalism delivers the attention and propaganda supplies the interpretation. This dynamic resembles what researchers describe as an information disorder.[10]
 
