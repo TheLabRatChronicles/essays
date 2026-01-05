@@ -141,30 +141,19 @@ Truth takes shape through many voices. If this piece sparks agreement, doubt, or
 
 Your reflections are always welcome.
 
-References
-Davenport, T. H., & Beck, J. C. (2001). The Attention Economy. Harvard Business School Press.
-
-Vosoughi, S., Roy, D., & Aral, S. (2018). “The spread of true and false news online.” Science, 359(6380), 1146–1151.
-
-Napoli, P. (2019). Social Media and the Public Interest. Columbia University Press.
-
-Baumeister, R. F., et al. (2001). “Bad is stronger than good.” Review of General Psychology, 5(4), 323–370.
-
-Menon, V., & Uddin, L. Q. (2010). “Saliency, switching, attention and control.” Brain Structure and Function, 214(5–6), 655–667.
-
-Kahneman, D. (2011). Thinking, Fast and Slow. Farrar, Straus and Giroux.
-
-Jowett, G., & O’Donnell, V. (2018). Propaganda & Persuasion (7th ed.). SAGE.
-
-Carr, N. (2010). The Shallows: What the Internet Is Doing to Our Brains. W. W. Norton.
-
-Tversky, A., & Kahneman, D. (1974). “Judgment under uncertainty.” Science, 185(4157), 1124–1131.
-
-Wardle, C., & Derakhshan, H. (2017). Information Disorder. Council of Europe.
-
-Berger, J., & Milkman, K. (2012). “What Makes Online Content Viral?” Journal of Marketing Research, 49(2), 192–205.
-
-Monney, A. G. (2025). Conceptual foundations of the DSTF-16 method-based propaganda framework [White paper in preparation].
+## References:
+[1] Davenport, T. H., & Beck, J. C. (2001). The Attention Economy. Harvard Business School Press.
+[2] Vosoughi, S., Roy, D., & Aral, S. (2018). “The spread of true and false news online.” Science, 359(6380), 1146–1151.
+[3] Napoli, P. (2019). Social Media and the Public Interest. Columbia University Press.
+[4] Baumeister, R. F., et al. (2001). “Bad is stronger than good.” Review of General Psychology, 5(4), 323–370.
+[5] Menon, V., & Uddin, L. Q. (2010). “Saliency, switching, attention and control.” Brain Structure and Function, 214(5–6), 655–667.
+[6] Kahneman, D. (2011). Thinking, Fast and Slow. Farrar, Straus and Giroux.
+[7] Jowett, G., & O’Donnell, V. (2018). Propaganda & Persuasion (7th ed.). SAGE.
+[8] Carr, N. (2010). The Shallows: What the Internet Is Doing to Our Brains. W. W. Norton.
+[9] Tversky, A., & Kahneman, D. (1974). “Judgment under uncertainty.” Science, 185(4157), 1124–1131.
+[10] Wardle, C., & Derakhshan, H. (2017). Information Disorder. Council of Europe.
+[11] Berger, J., & Milkman, K. (2012). “What Makes Online Content Viral?” Journal of Marketing Research, 49(2), 192–205.
+[12] Monney, A. G. (2025). Conceptual foundations of the DSTF-16 method-based propaganda framework [White paper in preparation].
 
 
 
