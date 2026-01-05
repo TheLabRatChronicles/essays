@@ -1,4 +1,6 @@
 # The Lab Rat Chronicles
+### [Essays](./) | [About](about/)
+
 
 Welcome to The Lab Rat Chronicles: a space for examining what happens when boundaries are pushed to their limits. Read more about this essay repository in the About Page.
 
