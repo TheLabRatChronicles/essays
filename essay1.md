@@ -1,8 +1,5 @@
 # Built to Provoke: The Economics of Sensationalism
-How digital platforms learned to monetize your emotions.
-
-
-
+<b>How digital platforms learned to monetize your emotions.</b>
 
 In today’s media ecosystem, information can’t be passive anymore. In fact, it’s expected to perform. It needs to yield results through whatever messaging is being used. Nothing is wasted. Often, every little editorial detail is premeditated to result in clicks, shares, comments, emotional reactions, or any other sign of human engagement. This type of engagement should not be accidental. That kind of engagement is essentially the lifeline of the medium itself — the digital medium. If the only thing content delivery accomplishes is the act of informing, as in the golden age of objective journalism, at least in financial terms, then such content is dead on arrival. Today’s hyper-demanding thirst for compelling content ensures its demise. Sensationalism, inside that media bubble, isn’t merely an editorial decision of style — it’s the Swiss Army knife of media survival. A calm and collected disposition of information expects nothing and gets nothing, whereas sensationalism expects reactions and, if successful, gets engagement.
 
@@ -14,13 +11,13 @@ This article is all about how our media architecture changed and why it continue
 
 By looking at the human, financial, and technological drives interacting in this new media ecosystem, we get a broad picture and better comprehension of how this engagement-compulsory environment generates the psychological field that allows propaganda to flourish unimpeded.
 
-I. The Shift from Limited News to Limited Attention
-Why Traditional News Didn’t Need Emotional Hooks
+### I. The Shift from Limited News to Limited Attention
+<b>Why Traditional News Didn’t Need Emotional Hooks</b>
 Information shortage was, for the most part, a defining characteristic of 20th-century news organisations. Large news networks, local broadcasters, and newspapers were limited in numbers and as a result were able to carry stable audiences. Their reputation, credibility, and reach largely determined their competitiveness. Revenues poured in a relatively consistent manner not because of emotional stimuli but because of an intellectually captive subscriber base.
 
 Because of a limited number of news outlets, the final selection of news items had to be moderated due to the limited number of slots, pages, column sizes, or broadcast time. Editorial oversight ensured that the right pieces of news filled the limited number of slots. Objectivity wasn’t a foregone conclusion, but moderation helped it along. It was under those conditions that careful reporting was profitable. Concise, to-the-point news was expected by readers, rather than a daily dose of emotional fix.
 
-New Incentives in the Age of Infinite Content
+<b>New Incentives in the Age of Infinite Content</b>
 If the pre-digital era experienced a limited supply of news forcing self-moderation then today’s digital era has produced the opposite. The internet has generated a quasi-unlimited amount of information, while audience attention remains disproportionately limited. The new chokepoint is now visibly the consumer bandwidth rather than the ability to produce. This shift is what scholars call the attention economy: the new scarcity is no longer information but rather the attention to that information.[1]
 
 Using human nature as the blueprint, algorithms now decide visibility (and therefore revenue) by rewarding content that triggers powerful emotions,[3] producing high-engagement signals (clicks, watch time, comments) that platforms use to rank and recommend content.[2] The end result is one where informational, triggerless content performs unimpressively inside a system designed for faster engagement, extreme emotions, and constant stimulation.
@@ -29,21 +26,21 @@ This profit engine has bifurcated from a subscription-based captive audience to 
 
 If the new profit engine incentivises attention instead of knowledge, then this begs the question: What triggers the emotional fix? The psychological aspects of sensationalism demand a proper examination.
 
-II. Why Outrage Works: The Psychology Behind Sensationalism
-A. The Evolutionary Advantage of Negative Information
+### II. Why Outrage Works: The Psychology Behind Sensationalism
+<b>A. The Evolutionary Advantage of Negative Information</b>
 From an evolutionary perspective, our brains are designed to prioritise negativity over positivity. Research shows that what is remembered more consistently, processed more deeply, and attracts attention more rapidly is negative information.[4] This tendency served an important function: it allowed organisms to react quickly to perceived threats, increasing survival odds. Sensationalism exploits this instinct by highlighting danger, moral outrage, and conflict.
 
-B. The Salience Network: Why Novelty Feels Important
+<b>B. The Salience Network: Why Novelty Feels Important</b>
 How we respond to novelty is the responsibility of the brain’s reward system. Each time new and emotional claims are delivered, our reward system, known as the salience network, makes that information appear more important than it really is.[5]
 
 Similar to novelty and emotional claims, conflict seizes our attention and produces emotional spikes through antagonism, social division, and moral outrage. These reactions are not defects, but demonstrations of ancient circuitry drowned in a modern environment of mass information delivery.
 
-C. Why We Become Suggestible When Emotions Run High
+<b>C. Why We Become Suggestible When Emotions Run High</b>
 Our ability to think critically is diminished by emotional arousal through a cognitive shift from intentional thinking to automatic thinking.[6] Therefore, sensationalism triggers the emotional arousal that weakens critical judgment, and this is where propaganda intervenes: it exploits these cognitive conditions. Propaganda thrives under these conditions, when audiences are overloaded, emotionally stimulated, or cognitively fatigued, because such states impair reflective judgment and heighten susceptibility to simplified narratives.[7] These psychological characteristics make sensationalist content an especially effective tool and leave audiences more impressionable.
 
 The sensationalism-propaganda feedback loop is formed by the interdependence created when sensationalism takes advantage of our evolutionary brain patterns, which propaganda then feeds into precisely when our reasoning is most diminished.
 
-III. The Loop That Turns Outrage Into Influence
+### III. The Loop That Turns Outrage Into Influence
 Sensationalism and propaganda are not identical, but in digital environments they reinforce each other so tightly that disentangling them becomes difficult. To understand this dynamic clearly, it helps to define propaganda in a way suited to the digital age.
 
 Over the past several months, I’ve been preparing a white paper focused on refining a method-based definition of propaganda. Its central proposal appears here for the first time: the Method-Based Definition of Propaganda, intended as a unifying framework for the digital age. This definition is still a work in progress, and will likely evolve as the broader DSTF-16 framework is finalized.[12]:
