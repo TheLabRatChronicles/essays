@@ -54,17 +54,14 @@ Propaganda is any communicative act or system, intentional or unintentional, tha
 With this in mind, the sensationalism–propaganda relationship works through a recurrent loop:
 <ol>
 <li>Sensationalism seizes our attention. Algorithms amplify emotionally charged content, and engagement begets visibility.
-
 <li>Propaganda inserts itself into the seized attention. Emotionally primed audiences gravitate toward certainty, identity reinforcement, and clear moral narratives.
-
 <li>To remain competitive, sensationalism needs to top itself. Emotional intensity escalates. Yesterday’s sensationalism becomes today’s neutral.
-
 <li>Propaganda deployment becomes easier. Manipulative narratives blend seamlessly into an ecosystem that rewards emotional extremes.
 </ol>
 What emerges is a self-propagating cycle where sensationalism delivers the attention and propaganda supplies the interpretation. This dynamic resembles what researchers describe as an information disorder.[10]
 
 The consequences of this feedback loop require an understanding of what is lost when sensationalism sets the terms of visibility. The most significant casualties are independence of thought and nuance.
-
+<p></p>
 ### IV. Why Moderate Ideas Vanish Online
 <b>A. Why Digital Media Punishes Slow Thinking</b><br>
 We acquire complex ideas through the slow, attentive absorption of context, background, and explanation, which is exactly the kind of slow processing that digital media refuses to reward. The system chases immediacy and quick emotional fixes, inevitably depriving nuance of its core requirement: deliberate, unhurried digestion of information. Ultimately, slow and careful analysis gets punished.
