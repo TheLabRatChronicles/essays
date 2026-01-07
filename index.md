@@ -1,7 +1,6 @@
 # The Lab Rat Chronicles
 
 <style>
-  /* Override GitHub Pages / Jekyll table striping */
   .markdown-body table.essay-list tr,
   .markdown-body table.essay-list tr:nth-child(even),
   .markdown-body table.essay-list tr:nth-child(odd) {
