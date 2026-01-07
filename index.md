@@ -1,6 +1,10 @@
 # The Lab Rat Chronicles
+
 <style>
-  table tr {
+  /* Override GitHub Pages / Jekyll table striping */
+  .markdown-body table.essay-list tr,
+  .markdown-body table.essay-list tr:nth-child(even),
+  .markdown-body table.essay-list tr:nth-child(odd) {
     background-color: transparent !important;
   }
 </style>
@@ -10,12 +14,11 @@
   <a href="about/"><strong>About</strong></a>
 </p>
 
-
 Welcome to The Lab Rat Chronicles: a space for examining what happens when boundaries are pushed to their limits. Read more about this essay repository in the About Page.
 
 <h2>Essays</h2>
 
-<table>
+<table class="essay-list">
   <tr>
     <td style="width:320px; vertical-align:top;">
       <img src="Thumbnail1.png" alt="built_to_provoke/index.md" width="300">
@@ -40,5 +43,6 @@ Welcome to The Lab Rat Chronicles: a space for examining what happens when bound
     </td>
   </tr>
 </table>
+
 
 
