@@ -1,13 +1,5 @@
 # The Lab Rat Chronicles
 
-<style>
-  .markdown-body table.essay-list tr,
-  .markdown-body table.essay-list tr:nth-child(even),
-  .markdown-body table.essay-list tr:nth-child(odd) {
-    background-color: transparent !important;
-  }
-</style>
-
 <p style="text-align: right;">
   <a href="./"><strong>Essays</strong></a> | 
   <a href="about/"><strong>About</strong></a>
@@ -17,8 +9,8 @@ Welcome to The Lab Rat Chronicles: a space for examining what happens when bound
 
 <h2>Essays</h2>
 
-<table class="essay-list">
-  <tr>
+<table>
+  <tr style="background-color: transparent !important;">
     <td style="width:320px; vertical-align:top;">
       <img src="Thumbnail1.png" alt="built_to_provoke/index.md" width="300">
     </td>
@@ -30,7 +22,7 @@ Welcome to The Lab Rat Chronicles: a space for examining what happens when bound
     </td>
   </tr>
 
-  <tr>
+  <tr style="background-color: transparent !important;">
     <td style="width:320px; vertical-align:top;">
       <img src="Thumbnail2.webp" alt="built_to_provoke/index.md" width="300">
     </td>
@@ -42,6 +34,5 @@ Welcome to The Lab Rat Chronicles: a space for examining what happens when bound
     </td>
   </tr>
 </table>
-
 
 
