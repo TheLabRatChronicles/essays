@@ -1,4 +1,10 @@
 # The Lab Rat Chronicles
+<style>
+  table tr {
+    background-color: transparent !important;
+  }
+</style>
+
 <p style="text-align: right;">
   <a href="./"><strong>Essays</strong></a> | 
   <a href="about/"><strong>About</strong></a>
