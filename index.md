@@ -24,7 +24,7 @@ Welcome to The Lab Rat Chronicles: a space for examining what happens when bound
 
   <tr>
     <td style="width:320px; vertical-align:top;">
-      <img src="Thumbnail2.png" alt="built_to_provoke/index.md" width="300">
+      <img src="Thumbnail2.webp" alt="built_to_provoke/index.md" width="300">
     </td>
     <td style="vertical-align:middle;">
       <strong>
