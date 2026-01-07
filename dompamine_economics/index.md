@@ -26,13 +26,13 @@ In the final phase, the pathway activates a key reward hub in the ventral striat
 
 This highly coordinated effort turns ambiguous negative emotions into a sharpened instrument of anger aimed at one clear target. Recognizing this choreography provides a good understanding of why outrage feels like it’s instantaneous and compelling. The brain is executing a highly efficient sequence of neural events.
 
-![image.png](https://substackcdn.com/image/fetch/$s_!rnga!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fcd543d6a-f4e2-415a-854a-18c95463a350_1536x1024.png "image.png")
+![Alt text](3.webp)
 
 
 While outrage feels instantaneous, it is the result of a rapid relay across several neural structures. The following diagram provides a simplified flow of the outrage pathway.
 
 
-![image.png](https://substackcdn.com/image/fetch/$s_!Wno-!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fd0240677-19ff-4c38-9454-45935496055d_1024x1536.png "image.png")
+![Alt text](4.webp)
 
 ### **B. Emotional Triggering and Cognitive Simplification**
 
@@ -46,7 +46,7 @@ The problem with anxiety is that it often leaves us powerless but with a continu
 
 Research shows that anger makes us perceive risks as more predictable and controllable, as opposed to fear and anxiety (Lerner et al., 2003). This emotional transformation generates certainty, even if sometimes inaccurate, and activates the reward system (Berridge & Robinson, 2016). Outrage can give us a sense of belonging and additional social benefits while reinforcing a person’s neural rewards.
 
-![image.png](https://substackcdn.com/image/fetch/$s_!maGu!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F63341a44-8978-4f6a-a8fe-5b955aa51ecf_1536x1024.png "image.png")
+![Alt text](5.webp)
 
 ## **The Outrage Reward Loop: How the Cycle Works**
 
@@ -71,7 +71,7 @@ Today’s understanding is that Dopamine isn’t merely a “feel-good” substa
 Outrage now becomes the trainer. It teaches the brain to acquire clarity through focused anger. In time, this process contributes to the behaviour of compulsively checking news, posts, or any emotionally primed stimulus.
 
 
-![image.png](https://substackcdn.com/image/fetch/$s_!1RMw!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Feaf14bec-b505-4e3f-bac4-1b40cebfa9f3_1024x1536.png "image.png")
+![Alt text](6.webp)
 
 ## **When Biology Meets Technology**
 
