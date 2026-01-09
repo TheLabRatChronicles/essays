@@ -28,7 +28,7 @@ Welcome to The Lab Rat Chronicles: a space for examining what happens when bound
     </td>
     <td style="vertical-align:middle;">
       <strong>
-        <a href="dopamine_economics/">Dopamine Economics: The Short-Term High of Outrage</a>
+        <a href="dopamine_economics/">Dopamine Economics: The New Attention Economy</a>
       </strong><br>
       <em>What happens when ancient emotional circuits collide with modern algorithmic incentives.</em>
     </td>
