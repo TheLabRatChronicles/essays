@@ -1,7 +1,7 @@
 ### What happens when ancient emotional circuits collide with modern algorithmic incentives.
  
-Al Monney
-December 17, 2025
+Al Monney<br>
+December 17, 2025<br>
 ## **When Outrage is an Unexpected Comfort**
 
 In this era of digital information overload, political conflict, and unending certainty, outrage has become the normalized emotional response. Those responses are demonstrated inside the multiple social platforms, news outlets, and even in interpersonal interactions. Even though it is treated as principled or virtuous, since it often suggests moral positioning or political participation, outrage also provides clarity, energy, and direction, but the kind that is antithetical to slow, methodical analysis in a world where people feel overwhelmed by ambiguity.
