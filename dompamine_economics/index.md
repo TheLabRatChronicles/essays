@@ -1,5 +1,5 @@
 ### What happens when ancient emotional circuits collide with modern algorithmic incentives.
-
+ 
 Al Monney
 December 17, 2025
 ## **When Outrage is an Unexpected Comfort**
