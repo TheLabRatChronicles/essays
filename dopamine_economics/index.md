@@ -1,4 +1,4 @@
-### What happens when ancient emotional circuits collide with modern algorithmic incentives.
+# What happens when ancient emotional circuits collide with modern algorithmic incentives.
  
 Al Monney<br>
 December 17, 2025<br>
